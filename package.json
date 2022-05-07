@@ -1,0 +1,29 @@
+{
+  "name": "@maybecode/weixin-jssdk",
+  "version": "1.0.1",
+  "description": "weixin-jssdk for ts",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "scripts": {
+    "pub": "npm publish --access=public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaybeQHL/weixin-jssdk.git"
+  },
+  "keywords": [
+    "jssdk",
+    "wexin",
+    "ts"
+  ],
+  "author": "maybe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaybeQHL/weixin-jssdk/issues"
+  },
+  "homepage": "https://github.com/MaybeQHL/weixin-jssdk#readme"
+}
