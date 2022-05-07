@@ -1,9 +1,9 @@
 {
   "name": "@maybecode/weixin-jssdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "weixin-jssdk for ts",
-  "main": "./src/weixin-sdk.common.js",
-  "types": "./src/index.d.ts",
+  "main": "./dist/weixin-sdk.common.js",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

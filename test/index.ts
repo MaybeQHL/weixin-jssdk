@@ -1,4 +1,4 @@
-import wx from '../src'
+import wx from '../dist'
 
 
 // error
