@@ -17,3 +17,17 @@
 ```
 yarn add @maybecode/weixin-jssdk
 ```
+
+## 使用
+```
+import wx from '@maybecode/weixin-jssdk'
+
+const jsApiList = [
+    'getLocation'
+] as wx.ApiMethod[];
+
+wx.config({
+    ...
+    jsApiList
+})
+```

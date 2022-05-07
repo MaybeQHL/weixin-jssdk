@@ -1,6 +1,6 @@
 {
   "name": "@maybecode/weixin-jssdk",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "weixin-jssdk for ts",
   "main": "./dist/weixin-sdk.common.js",
   "types": "./dist/index.d.ts",

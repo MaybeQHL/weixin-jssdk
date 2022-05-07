@@ -1,13 +1,12 @@
 import wx from '../dist'
 
 
-// error
-// wx.checkJsApi({
-//     jsApiList: 1
+// const jsApiList = [
+//     'getLocation'
+// ] as wx.ApiMethod[];
+
+// wx.config({
+//     jsApiList
 // })
 
 
-// success
-// wx.checkJsApi({
-//     jsApiList: ['addCard']
-// })
