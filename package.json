@@ -1,6 +1,6 @@
 {
   "name": "@maybecode/weixin-jssdk",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "weixin-jssdk for ts",
   "main": "./dist/weixin-sdk.common.js",
   "types": "./dist/index.d.ts",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "files": [
-    "src"
+    "dist"
   ],
   "repository": {
     "type": "git",
